@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1777200657326216835/8DD08C01EAD127A7EBDC53BC4F9116A306E619B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)]
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1777200657326216835/8DD08C01EAD127A7EBDC53BC4F9116A306E619B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Hi 👋, I'm Shubham kumaar</h1>
 <h3 align="center">A passionate UI/UX developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-astronaut-waving-hand-cartoon-handdrawn_194871-295.jpg?w=740&t=st=1672079183~exp=1672079783~hmac=bf8e8e4f4f00a6d8752e3e834284456224f197c20d8ec7df63b0552ad6cbf1f6">
